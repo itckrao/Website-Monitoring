@@ -1,7 +1,12 @@
 # Website-Monitoring 
 #### AUTHOR:
 
-- [Chandramohan Jagtap](https://github.com/cmjagtap "Chandramohan's github profile")
+- Executive Author
+CK Rao — Executive Leader in Enterprise AI Architecture, Data Strategy, and Cyber Resilience.
+
+LinkedIn: CK Rao Profile
+
+Thought Leadership: AI to Super Intelligence (SI) Framework
 
 ![Screenshot](https://miro.medium.com/max/2000/1*F0Zk8aWN5QrPDBRWrIh6vA.png)
 
